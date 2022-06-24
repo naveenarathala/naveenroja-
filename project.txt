@@ -4,5 +4,4 @@ git is a source management sysytem
 google
 CHROME 
 GOOLG.COM
-google is good browser
-you are beatiful
+to check the conflict 
